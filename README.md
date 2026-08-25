@@ -1,55 +1,96 @@
-<h1 align="center">Hi, I'm Abdul Rehman 👋</h1> <h3 align="center">AI Software Engineer — Agentic Systems & Full-Stack AI Delivery</h3> <p align="center"> <a href="mailto:mars742004@gmail.com"><img src="https://img.shields.io/badge/Email-mars742004%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/abdul-rehman54621a266"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/AbdulRehman942004"><img src="https://img.shields.io/badge/GitHub-AbdulRehman942004-181717?style=flat&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-4CAF50?style=flat" /> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Abdul%20Rehman&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20Agentic%20AI%20Systems&descAlignY=55&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;LangGraph+%2B+LangChain+%2B+AutoGen+(AG2);RAG+%2F+GraphRAG+over+Real+Trade+Data;FastAPI+%2B+Next.js+Full-Stack+Delivery;Shipping+to+Production%2C+Not+Just+Demos" alt="Typing SVG" /> <br/>
+
+<a href="mailto:mars742004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/abdul-rehman54621a266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/AbdulRehman942004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://intellotrade.com"><img src="https://img.shields.io/badge/Live%20Product-TradeMate-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=AbdulRehman942004&style=for-the-badge&color=A970FF&label=PROFILE+VIEWS" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 🧠 About Me
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4e1e6e26ec7c.gif">
 
-I'm an AI Software Engineer with 2+ years of experience shipping production-grade agentic AI systems. I specialize in multi-agent orchestration, RAG/GraphRAG pipelines, and full-stack delivery with Python and Next.js — taking AI products from concept to live deployment on real client traffic.
+I'm an AI Software Engineer with 2+ years shipping production-grade agentic AI systems — not prototypes, live products handling real client traffic.
 
-🔭 Currently building agentic AI systems at Rizviz International Impex
-🤖 Focused on LangGraph, LangChain, and AutoGen (AG2) multi-agent orchestration
-🔍 Deep experience with RAG/GraphRAG pipelines over structured & unstructured data
-🌐 Ship full-stack — FastAPI backends to Next.js frontends
-💬 Comfortable owning client-facing delivery: requirements → architecture → weekly demos
-🛠️ Tech Stack
+python
+class AbdulRehman:
+    def __init__(self):
+        self.role = "AI Software Engineer"
+        self.focus = ["Multi-Agent Orchestration", "RAG / GraphRAG", "Full-Stack AI"]
+        self.stack = ["LangGraph", "LangChain", "AutoGen (AG2)", "FastAPI", "Next.js"]
+        self.currently_building = "Agentic pipelines that go from whiteboard → production"
 
-Languages Show Image Show Image Show Image Show Image
+    def philosophy(self):
+        return "Ship working systems, not just demos."
+🔭 Building agentic AI systems at Rizviz International Impex
+🧩 Multi-agent orchestration with LangGraph · LangChain · AutoGen (AG2)
+🔎 RAG / GraphRAG pipelines over 220,000+ HS codes and policy documents
+🌐 Full-stack delivery — FastAPI backends → Next.js frontends
+🗣️ Own client-facing delivery end-to-end: requirements → architecture → weekly demos
+🎓 BS Computer Science — Bahria University, Lahore
+<br clear="right"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
+⚡ Tech Arsenal
+<div align="center"> <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nextjs,tailwind,fastapi,postgres,mysql,mongodb,docker,aws,redis,git,github&theme=dark" />
 
-Agentic AI / ML Show Image Show Image Show Image Show Image Show Image
+<br/><br/>
 
-Backend & Frontend Show Image Show Image Show Image Show Image
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-Databases Show Image Show Image Show Image Show Image Show Image
-
-Tools & Infra Show Image Show Image Show Image Show Image Show Image
-
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
+📊 GitHub Stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman942004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman942004&layout=compact&theme=radical&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman942004&theme=radical&hide_border=true" /> <br/> <img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman942004&theme=radical&no-frame=true&row=1&column=6" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman942004&theme=redical&hide_border=true" width="100%"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 💼 Experience
+<table> <tr> <td width="140" valign="top"><b>2024 — 2026</b><br/><sub>Lahore, Pakistan</sub></td> <td>
+🚀 AI Software Engineer @ Rizviz International Impex
 
-AI Software Engineer — Rizviz International Impex, Lahore, Pakistan (2024 – 2026)
+Shipped production agentic AI systems end to end with LangGraph, LangChain, and AutoGen (AG2) — multi-agent orchestration, ReAct agents, tool-calling pipelines, and confidence-gated human-in-the-loop workflows on real client traffic.
 
-Shipped production agentic AI systems end to end with LangGraph, LangChain, and AutoGen (AG2) — multi-agent orchestration, ReAct agents, tool-calling pipelines, and confidence-gated human-in-the-loop workflows.
-Built automated data pipelines for document ingestion, embedding, and retrieval — extraction, chunking, OpenAI embeddings, Pinecone vector upserts, and Memgraph knowledge-graph population via scheduled background jobs.
-Delivered RAG and GraphRAG retrieval over 220,000+ HS codes and policy documents, with parameterized Cypher queries, hybrid vector + text search, and 3-level tariff inheritance.
-Architected full-stack microservice backends (FastAPI, PostgreSQL, Memgraph, Pinecone, Redis, Docker Compose) with 12+ route modules, JWT + OTP auth, rate limiting, and admin portals.
-Owned client-facing delivery end to end — requirements gathering, trade-off communication, and weekly working-prototype demos.
-🚀 Featured Projects
-TradeMate — AI Trade Intelligence Platform
+Built automated ingestion → embedding → retrieval pipelines (OpenAI embeddings, Pinecone upserts, Memgraph knowledge-graph population) via scheduled background jobs
+Delivered RAG/GraphRAG over 220,000+ HS codes, parameterized Cypher queries, hybrid vector + text search, 3-level tariff inheritance
+Architected microservice backends (FastAPI, PostgreSQL, Memgraph, Pinecone, Redis, Docker Compose) — 12+ route modules, JWT + OTP auth, rate limiting, admin portals
+Owned client-facing delivery: requirements → trade-off communication → weekly working-prototype demos
+</td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
+🏆 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🌍 TradeMate
 
-Live conversational AI platform for tariffs, HS-code classification, and PK–US shipping. Built on a LangGraph ReAct agent with 5 tools over a Memgraph knowledge graph (220,000+ HS codes, 3-level tariff inheritance) and Pinecone semantic search across policy docs, SROs, and FTAs. Bidirectional DDP shipping-cost engine with concurrent live Freightos quotes and Leaflet route widgets, powering three Next.js frontends (chat app, admin portal, marketing site).
+AI Trade Intelligence Platform — Live
 
-Multi-Agent Research Platform
+Conversational AI for tariffs, HS-code classification & PK–US shipping. LangGraph ReAct agent, 5 tools, Memgraph knowledge graph (220K+ HS codes), Pinecone semantic search across SROs & FTAs. Bidirectional DDP shipping-cost engine with live Freightos quotes + Leaflet route widgets across 3 Next.js frontends.
 
-Five AutoGen agents (Researcher, Organizer, Critic, Clarifier, Report Generator) orchestrated in an enforced GroupChat that researches live and produces a fully-sourced PDF — with Claude-scored confidence-gated revision loops, HITL clarification, and every agent turn streamed to the browser over WebSockets.
+LangGraph Memgraph Pinecone FastAPI Next.js
 
-AI Data Scientist — Automated EDA
+</td> <td width="50%" valign="top">
+🧬 Multi-Agent Research Platform
 
-Agentic EDA tool that ingests any CSV and runs a 6-step pipeline — inspection, stats, outlier detection, skewness-driven cleaning, smart visualization, and a GPT-generated narrative report — with a HITL step to align cleaning to the target variable and one-click export.
+AutoGen (AG2) · FastAPI · Next.js
 
-Grocery Delivery Voice Agent
+5 AutoGen agents (Researcher, Organizer, Critic, Clarifier, Report Generator) in an enforced GroupChat producing a fully-sourced PDF — Claude-scored confidence-gated revision loops, HITL clarification, agent turns streamed live over WebSockets.
 
-Real-time voice AI (LiveKit STT → LLM → TTS, 15 function tools) letting shoppers search the catalog, get out-of-stock substitutions, build a cart, and check out hands-free — driving a Next.js storefront by voice via LiveKit RPC over a PostgreSQL data layer.
+AutoGen WebSockets HITL PDF Gen
 
-🎓 Education
+</td> </tr> <tr> <td width="50%" valign="top">
+📈 AI Data Scientist — Automated EDA
 
-Bachelor of Science in Computer Science — Bahria University, Lahore, Pakistan
+LangGraph · Streamlit · GPT-4o-mini
 
-📫 Reach Me
+Agentic EDA tool ingesting any CSV through a 6-step pipeline: inspection, stats, outlier detection, skewness-driven cleaning, smart visualization, GPT narrative report — with HITL alignment to the target variable + one-click cleaned CSV export.
 
-Show Image Show Image
+LangGraph Streamlit GPT-4o-mini
+
+</td> <td width="50%" valign="top">
+🎙️ Grocery Delivery Voice Agent
+
+LiveKit · Deepgram · OpenAI
+
+Real-time voice AI (STT → LLM → TTS, 15 function tools) — shoppers search, get substitutions, build a cart, and check out hands-free. Drives a Next.js storefront by voice via LiveKit RPC over PostgreSQL.
+
+LiveKit Deepgram Voice AI
+
+</td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/> <div align="center">
+💬 Random Dev Quote
+
+Show Image
+
+<br/>
+📫 Let's Connect
+
+Show Image Show Image Show Image
+
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> </div>
