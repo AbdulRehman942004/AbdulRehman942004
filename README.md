@@ -67,24 +67,14 @@ class AbdulRehman:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 Quick Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman942004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman942004&layout=compact&theme=radical&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman942004&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman942004&theme=radical&no-frame=true&row=1&column=6" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman942004&theme=redical&hide_border=true" width="100%"/>
+<img src="https://img.shields.io/github/followers/AbdulRehman942004?style=for-the-badge&logo=github&color=A970FF&label=Followers&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-6E40C9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Featured%20Projects-4%2B-00C7B7?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/HS%20Codes%20Indexed-220K%2B-FF7300?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -164,7 +154,7 @@ Real-time voice AI (STT → LLM → TTS, 15 function tools) — shoppers search,
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
