@@ -163,7 +163,7 @@ Real-time voice AI (STT → LLM → TTS, 15 function tools) — shoppers search,
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mars742004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman54621a266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-54621a266/)
 [![Portfolio](https://img.shields.io/badge/TradeMate-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://intellotrade.com)
 
 <br/>
