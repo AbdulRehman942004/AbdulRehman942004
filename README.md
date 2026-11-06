@@ -21,7 +21,7 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4e1e6e26ec7c.gif">
 
-I'm an **AI Software Engineer** with 6+ years shipping **production-grade agentic AI systems** — not prototypes, live products handling real client traffic.
+I'm an **AI Software Engineer** with 6+ years shipping **production-grade agentic AI and ML systems** — not prototypes, live products handling real client traffic.
 
 ```python
 class AbdulRehman:
